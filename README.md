@@ -1,59 +1,29 @@
-# Prework - *Project1Swift*
+# Hey there! I'm Andrew
 
-Submitted by: **Andrew Nguyen**
+Welcome to my GitHub! I'm a passionate developer who loves solving real-world problems with code. I specialize in **Python**, **OpenCV**, **Java**, and **Full-Stack Web Development**. Whether it's building intelligent systems or scalable web applications, I enjoy crafting solutions that make an impact.
 
-**Name of your app** is an app that... [TODO] 
+---
 
-Time spent: 1 hour spent in total
+## Tech Stack
 
-## Required Features
+- Python | ☕ Java | HTML | CSS | JavaScript | R/RStudio
+- Machine Learning | OpenCV | Scikit-Learn | Pandas
+- 🛠️ Git | GitHub | REST APIs | VS Code
 
-The following **required** functionality is completed:
+---
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
+## Projects
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+### Credit Card Fraud Detection  
+A machine learning-based project that identifies fraudulent transactions using anomaly detection techniques. Implemented in **RStudio** using data visualization tools.
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+### Facial Recognition Attendance System  
+An intelligent attendance system using **OpenCV** and **face recognition** libraries to mark presence based on facial data. Enhances automation and security in classrooms or workplaces.
 
-## App Brainstorming (Step 4)
+### Huffman Encoding Implementation  
+A classic data compression project where I implemented **Huffman encoding** from scratch in Python. Great for understanding greedy algorithms and data structures.
 
-Favorite applications:
+### Natural Disaster Classification *(In Progress)*  
+Currently building a deep learning model to classify natural disasters (like floods, wildfires, earthquakes) from satellite or social media images. Using **CNNs**, **TensorFlow**, and **image datasets**.
 
-1. Instagram:
-   - Variety of content through friends' posts or reels
-   - Changing nicknames of friends in group chats or direct messages
-     
-2. Spotify:
-   - Being able to see what friends are listening to.
-   - Making collaborative playlists with friends.
-   - Seeing your most listened artists and songs at the end of each year.
-     
-3. YouTube:
-   - Reccomended playlists or videos that match my current taste
-   - Accessing your entire watch history and finding old interesting videos.
-  
-An app idea that I would like to build is a strategy card game that uses versions of chess pieces as the cards.
-
-## Notes
-
-While making this app, I struggled with navigating the immense ammount of tools and options on the screen, and I got slightly confused midway navigating the storyboard.
-
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+---
