@@ -17,7 +17,7 @@ I work between software engineering and machine learning: services that diagnose
 
 September 2026 – present · Santa Cruz, CA
 
-- Lead a 5+ member undergraduate research lab, developing curriculum and guiding members through literature review, research replication, gap analysis, and project development.
+- Lead a 15+ member undergraduate research lab, developing curriculum and guiding members through literature review, research replication, gap analysis, and project development.
 - Plan and host 3–4 technical workshops a quarter, with hands-on instruction on research and computer science topics including agentic workflows, token optimization, and software.
 
 ### AIEA Lab — Undergraduate Researcher
